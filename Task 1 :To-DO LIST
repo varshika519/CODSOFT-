@@ -26,10 +26,8 @@ elif choice == "3":
             print(f"Deleted: {removed}")
         else:
             print("Invalid task number.")
-
-    elif choice == "4":
+  elif choice == "4":
         print("Goodbye!")
         break
-
-    else:
+  else:
         print("Invalid choice.")
